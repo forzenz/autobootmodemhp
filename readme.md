@@ -22,12 +22,12 @@ Cocok digunakan jika Anda mengalami masalah dengan **USB Debugging** atau ingin 
 ## Cara Instalasi
 1. Pastikan Magisk sudah terpasang di perangkat Anda.
 2. Buka **Magisk Manager**.
-3. Pilih **Install from Storage** dan arahkan ke file `clean.zip`.
+3. Pilih **Install from Storage** dan arahkan ke file `<nama_file>.zip`.
 4. Reboot perangkat setelah instalasi selesai.
 
 ## Cara Uninstall
 1. Buka **Magisk Manager**.
-2. Hapus modul **Clean USB Debugging**.
+2. Pilih modul. 
 3. Reboot perangkat.
 
 ## Catatan
