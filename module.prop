@@ -1,0 +1,6 @@
+id=auto.usb.tether.ui.charger
+name=Auto USB Tether + Fix Boot + Charger Cutoff
+version=v1.6
+versionCode=5
+author=BangKicot
+description=Auto USB Tethering with toggle, boot fix, and automatic charger cutoff toggle support.
